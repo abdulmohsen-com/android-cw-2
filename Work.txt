@@ -1,0 +1,44 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+    //   first(1);
+    
+    //___________________________________
+    //  noFive(1);
+     
+     
+     
+     
+     
+     }
+     // Didn't Work
+    //  public static void noFive(int x){
+    //     for(int i = 1; i < 11; i++)
+    //     if(i == 5)
+    //     System.out.println(i + 1);
+
+    // }
+    
+    //____________________________________________
+    
+    
+    
+    
+    //  public static void first(int x){
+    //      for(int i = 1; i < 11; i++)
+    //      System.out.println(i);
+    //  }
+     
+    
+
+
+
+
+
+
+
+
+
+
+
+}
